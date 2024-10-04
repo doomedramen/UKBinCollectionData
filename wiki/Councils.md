@@ -96,6 +96,7 @@ This document is still a work in progress, don't worry if your council isn't lis
   - [North West Leicestershire Council](#north-west-leicestershire-council)
   - [NorthYorkshire](#northyorkshire)
   - [Northumberland Council](#northumberland-council)
+  - [Norwich City Council](#norwich-city-council)
   - [Nottingham City Council](#nottingham-city-council)
   - [Oldham Council](#oldham-council)
   - [Portsmouth City Council](#portsmouth-city-council)

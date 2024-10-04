@@ -774,6 +774,15 @@
         "web_driver": "http://selenium:4444",
         "wiki_name": "Northumberland Council"
     },
+    "NorwichCityCouncil": {
+        "house_number": "17",
+        "postcode": "NR3 1SE",
+        "skip_get_url": true,
+        "url": "https://maps.norwich.gov.uk/mynorwich/index.html",
+        "web_driver": "http://selenium:4444",
+        "wiki_name": "Norwich City Council",
+        "wiki_note": "Pass the name of the street with the house number parameter, wrapped in double quotes"
+    },
     "NottinghamCityCouncil": {
         "skip_get_url": true,
         "uprn": "100031540180",
