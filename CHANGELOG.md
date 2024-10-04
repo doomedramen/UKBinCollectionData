@@ -1,3 +1,9 @@
+## 0.92.0 (24-10-4)
+
+### Feat
+
+- Added Norwich City Council
+
 ## 0.91.0 (2024-10-03)
 
 ### Feat
