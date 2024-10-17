@@ -38,3 +38,4 @@
 __pycache__
 !TO_BE_CONVERTED
 !.devcontainer
+poetry.lock
